@@ -1,0 +1,46 @@
+C:\Users\tanya\Documents\University\Cyber Security\MongoDB\MongoDB\MongoDB\bin\Debug\netcoreapp3.1\MongoDB.exe
+C:\Users\tanya\Documents\University\Cyber Security\MongoDB\MongoDB\MongoDB\obj\Debug\netcoreapp3.1\MongoDB.csprojAssemblyReference.cache
+C:\Users\tanya\Documents\University\Cyber Security\MongoDB\MongoDB\MongoDB\obj\Debug\netcoreapp3.1\MongoDB.AssemblyInfoInputs.cache
+C:\Users\tanya\Documents\University\Cyber Security\MongoDB\MongoDB\MongoDB\obj\Debug\netcoreapp3.1\MongoDB.AssemblyInfo.cs
+C:\Users\tanya\Documents\University\Cyber Security\MongoDB\MongoDB\MongoDB\bin\Debug\netcoreapp3.1\MongoDB.deps.json
+C:\Users\tanya\Documents\University\Cyber Security\MongoDB\MongoDB\MongoDB\bin\Debug\netcoreapp3.1\MongoDB.runtimeconfig.json
+C:\Users\tanya\Documents\University\Cyber Security\MongoDB\MongoDB\MongoDB\bin\Debug\netcoreapp3.1\MongoDB.runtimeconfig.dev.json
+C:\Users\tanya\Documents\University\Cyber Security\MongoDB\MongoDB\MongoDB\bin\Debug\netcoreapp3.1\MongoDB.dll
+C:\Users\tanya\Documents\University\Cyber Security\MongoDB\MongoDB\MongoDB\bin\Debug\netcoreapp3.1\MongoDB.pdb
+C:\Users\tanya\Documents\University\Cyber Security\MongoDB\MongoDB\MongoDB\bin\Debug\netcoreapp3.1\DnsClient.dll
+C:\Users\tanya\Documents\University\Cyber Security\MongoDB\MongoDB\MongoDB\bin\Debug\netcoreapp3.1\MongoDB.Bson.dll
+C:\Users\tanya\Documents\University\Cyber Security\MongoDB\MongoDB\MongoDB\bin\Debug\netcoreapp3.1\MongoDB.Driver.dll
+C:\Users\tanya\Documents\University\Cyber Security\MongoDB\MongoDB\MongoDB\bin\Debug\netcoreapp3.1\MongoDB.Driver.Core.dll
+C:\Users\tanya\Documents\University\Cyber Security\MongoDB\MongoDB\MongoDB\bin\Debug\netcoreapp3.1\MongoDB.Libmongocrypt.dll
+C:\Users\tanya\Documents\University\Cyber Security\MongoDB\MongoDB\MongoDB\bin\Debug\netcoreapp3.1\SharpCompress.dll
+C:\Users\tanya\Documents\University\Cyber Security\MongoDB\MongoDB\MongoDB\bin\Debug\netcoreapp3.1\runtimes\win\native\libzstd.dll
+C:\Users\tanya\Documents\University\Cyber Security\MongoDB\MongoDB\MongoDB\bin\Debug\netcoreapp3.1\runtimes\win\native\snappy32.dll
+C:\Users\tanya\Documents\University\Cyber Security\MongoDB\MongoDB\MongoDB\bin\Debug\netcoreapp3.1\runtimes\win\native\snappy64.dll
+C:\Users\tanya\Documents\University\Cyber Security\MongoDB\MongoDB\MongoDB\obj\Debug\netcoreapp3.1\MongoDB.csproj.CoreCompileInputs.cache
+C:\Users\tanya\Documents\University\Cyber Security\MongoDB\MongoDB\MongoDB\obj\Debug\netcoreapp3.1\MongoDB.csproj.CopyComplete
+C:\Users\tanya\Documents\University\Cyber Security\MongoDB\MongoDB\MongoDB\obj\Debug\netcoreapp3.1\MongoDB.dll
+C:\Users\tanya\Documents\University\Cyber Security\MongoDB\MongoDB\MongoDB\obj\Debug\netcoreapp3.1\MongoDB.pdb
+C:\Users\tanya\Documents\University\Cyber Security\MongoDB\MongoDB\MongoDB\obj\Debug\netcoreapp3.1\MongoDB.genruntimeconfig.cache
+C:\Users\veace\CS_labs\MongoDBLab7\MongoDB\bin\Debug\netcoreapp3.1\MongoDB.exe
+C:\Users\veace\CS_labs\MongoDBLab7\MongoDB\bin\Debug\netcoreapp3.1\MongoDB.deps.json
+C:\Users\veace\CS_labs\MongoDBLab7\MongoDB\bin\Debug\netcoreapp3.1\MongoDB.runtimeconfig.json
+C:\Users\veace\CS_labs\MongoDBLab7\MongoDB\bin\Debug\netcoreapp3.1\MongoDB.runtimeconfig.dev.json
+C:\Users\veace\CS_labs\MongoDBLab7\MongoDB\bin\Debug\netcoreapp3.1\MongoDB.dll
+C:\Users\veace\CS_labs\MongoDBLab7\MongoDB\bin\Debug\netcoreapp3.1\MongoDB.pdb
+C:\Users\veace\CS_labs\MongoDBLab7\MongoDB\bin\Debug\netcoreapp3.1\DnsClient.dll
+C:\Users\veace\CS_labs\MongoDBLab7\MongoDB\bin\Debug\netcoreapp3.1\MongoDB.Bson.dll
+C:\Users\veace\CS_labs\MongoDBLab7\MongoDB\bin\Debug\netcoreapp3.1\MongoDB.Driver.dll
+C:\Users\veace\CS_labs\MongoDBLab7\MongoDB\bin\Debug\netcoreapp3.1\MongoDB.Driver.Core.dll
+C:\Users\veace\CS_labs\MongoDBLab7\MongoDB\bin\Debug\netcoreapp3.1\MongoDB.Libmongocrypt.dll
+C:\Users\veace\CS_labs\MongoDBLab7\MongoDB\bin\Debug\netcoreapp3.1\SharpCompress.dll
+C:\Users\veace\CS_labs\MongoDBLab7\MongoDB\bin\Debug\netcoreapp3.1\runtimes\win\native\libzstd.dll
+C:\Users\veace\CS_labs\MongoDBLab7\MongoDB\bin\Debug\netcoreapp3.1\runtimes\win\native\snappy32.dll
+C:\Users\veace\CS_labs\MongoDBLab7\MongoDB\bin\Debug\netcoreapp3.1\runtimes\win\native\snappy64.dll
+C:\Users\veace\CS_labs\MongoDBLab7\MongoDB\obj\Debug\netcoreapp3.1\MongoDB.csprojAssemblyReference.cache
+C:\Users\veace\CS_labs\MongoDBLab7\MongoDB\obj\Debug\netcoreapp3.1\MongoDB.AssemblyInfoInputs.cache
+C:\Users\veace\CS_labs\MongoDBLab7\MongoDB\obj\Debug\netcoreapp3.1\MongoDB.AssemblyInfo.cs
+C:\Users\veace\CS_labs\MongoDBLab7\MongoDB\obj\Debug\netcoreapp3.1\MongoDB.csproj.CoreCompileInputs.cache
+C:\Users\veace\CS_labs\MongoDBLab7\MongoDB\obj\Debug\netcoreapp3.1\MongoDB.csproj.CopyComplete
+C:\Users\veace\CS_labs\MongoDBLab7\MongoDB\obj\Debug\netcoreapp3.1\MongoDB.dll
+C:\Users\veace\CS_labs\MongoDBLab7\MongoDB\obj\Debug\netcoreapp3.1\MongoDB.pdb
+C:\Users\veace\CS_labs\MongoDBLab7\MongoDB\obj\Debug\netcoreapp3.1\MongoDB.genruntimeconfig.cache
